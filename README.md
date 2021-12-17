@@ -1,7 +1,7 @@
 # LanguageLearner
 This is a final project for an engineering python class at Stevens Institute of Technology 
 
-##Brief Over View 
+## Brief Over View 
 
 	We have all been there, working in a new class, new job or new project that requires using the capabilities of a different language. The tool I made for this project is aimed at somewhat experienced programmers who know at least one language and are trying to / need to learn more. As a programmer once you learn the foundations and the way of thinking with one programming language, it is really easy to learn others once you know the new syntax and that is what this program aims to help with.
 	I created a program that allows a user to enter a programming language and the code structure they would like to see and the resultant syntax is then displayed in a user friendly way in the terminal. This project can be run anywhere as long as the languageLearner.py file is in the directory you are in. There are built-in help screens that allow the user to see the capabilities of all of the different languages and the different coding structures they can access. As well as a feature to allow users to enter all in place of the named coding structure after they have selected the language that will display all of the basic syntax for that particular language. 
