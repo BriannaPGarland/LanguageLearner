@@ -20,6 +20,7 @@ This is a final project for an engineering python class at Stevens Institute of 
      - It also has a help screen option at each of the prompts to assist the user in choosing their language and code 
      - If you put “all” for code structure it will display all of the basic syntax 
      - This is a screenshot of a sample of the output in this mode:
+     	![alt text](https://github.com/BriannaPGarland/LanguageLearner/blob/main/Screen%20Shot%202021-12-17%20at%204.58.16%20PM.png)
 
     ### python languageLearner.py -q “Language”,”Code structure” 
     Need to be sure to have quotes around both and a comma in the middle of the two 
@@ -29,6 +30,7 @@ This is a final project for an engineering python class at Stevens Institute of 
     - It has all of the same error handling as the other mode. 
     - Can still use the all or help add ins in this mode. 
     - This is an example of the code output:
+      ![alt text](https://github.com/BriannaPGarland/LanguageLearner/blob/main/Screen%20Shot%202021-12-17%20at%204.58.24%20PM.png)
 
 ## Link to Source Code on Git Hub 
 https://github.com/BriannaPGarland/LanguageLearner
